@@ -5,4 +5,4 @@
 2) To evaluate the performance of different supervised learning classification models.
 
 #### Dataset
-Dataset is obtained from https://github.com/nshomron/covidpred
+Source of dataset is obtained and extracted from https://github.com/nshomron/covidpred
